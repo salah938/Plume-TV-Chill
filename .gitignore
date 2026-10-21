@@ -1,0 +1,21 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+keystore.properties
+*.jks
+*.keystore
+
+# Local setup state and personal files
+.downloads/
+.logs/
+__pycache__/
+*.pyc
+.env
+.env.*
+optional-apks/
+wallpapers/
+*.key
+*.pem

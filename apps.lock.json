@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "platform": "Fire OS 7 / Android API 28 / armeabi-v7a",
+  "apps": [
+    {
+      "id": "plume",
+      "name": "Plume TV Chill",
+      "package": "dev.plume.salah",
+      "version": "1.4.0",
+      "sha256": "38c78e7f707598e18dbf2bf380fa74a134fdc1e470a736d81e1f0e85645582bf",
+      "file": "dist/Plume-TV-Chill-1.4.0.apk"
+    },
+    {
+      "id": "smarttube",
+      "name": "SmartTube",
+      "package": "org.smarttube.stable",
+      "version": "32.68",
+      "sha256": "2130b23b17ed5cfd324baec81750a2be22059212b6ee17449f21cae2cb3a60d9",
+      "url": "https://github.com/yuliskov/SmartTube/releases/download/32.68s/SmartTube_stable_32.68_armeabi-v7a.apk"
+    },
+    {
+      "id": "zen",
+      "name": "Zen IPTV Fire OS",
+      "package": "app.zeniptv.mobile",
+      "version": "2.1.0",
+      "sha256": "a700a396a7daeaee00482865421505e798fb875e063e0ea2337f719cceae4a6c",
+      "url": "https://zeniptv.app/releases/zeniptv_fireos.apk"
+    },
+    {
+      "id": "home-on-fire",
+      "name": "Home on Fire",
+      "package": "io.github.toolicious.homeonfire",
+      "version": "1.5.2",
+      "sha256": "87403c961264cc2e36e53cf571777ec20705eb87f46794cb0ac667135a98d9fe",
+      "url": "https://github.com/toolicious/home-on-fire/releases/download/v1.5.2/home-on-fire.apk"
+    }
+  ]
+}
